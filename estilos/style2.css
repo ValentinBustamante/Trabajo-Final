@@ -1,0 +1,25 @@
+body{
+    background-image: url("../fondo/pop.jpg")
+}
+header{
+    background-color: #8CBDFF; border-bottom-width:20px; border-color:blue; border-style:groove;
+}
+footer{
+    background-color: #8CBDFF;
+}
+h1{
+    font-family:aharoni; text-align:center; 
+}
+li{
+    font-size: 150%;
+}
+.horarios{
+    background-color: #ff8c8c; font-size: 400%;
+}
+caption{
+    background-color: #8CBDFF; font-family:magneto; color:red
+}
+a {
+    text-decoration: none;
+    cursor:pointer; cursor: hand
+}  
